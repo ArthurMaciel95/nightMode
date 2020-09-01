@@ -1,5 +1,4 @@
 # nightMode
+[Imgur](https://i.imgur.com/rHUQGYf.png)
 
-<img  src="https://imgur.com/rHUQGYf">
-
-<img  src="https://imgur.com/fi7l9Yi">
+[Imgur](https://i.imgur.com/fi7l9Yi.png)
